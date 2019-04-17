@@ -8,10 +8,10 @@ This is a python script to analyse RNA secondary strcuture.
 ### 数据清洗
 ### 设计数据库
 ## 二级结构分析算法
-* todo
+* 绝赞咕咕咕中……
 ## 片段比对算法
-* todo
+* 绝赞咕咕咕中……
 ## 片段拼装算法
-* todo
+* 绝赞咕咕咕中……
 ## 可视化模块
-*todo
+* 绝赞咕咕咕中……
