@@ -1,5 +1,5 @@
 # RNA_Analyser
-<div align=center>![Logo](https://github.com/Cathayaliu/RNA_Analyser/blob/master/pictures/logo.png)
+<div align=center>![Logo](https://github.com/Cathayaliu/RNA_Analyser/blob/master/pictures/logo.png)</div>
 
 *This is a python script to analyse RNA secondary strcuture.*
 ***
