@@ -1,4 +1,4 @@
-# RNA_Analyser
+# RNAnalyser
 <div align=center><img src="https://s2.ax1x.com/2019/04/17/AzgQX9.png" alt="AzgQX9.png" border="0" /></div>
 
 *This is a python script to analyse RNA secondary strcuture.*
