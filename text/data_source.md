@@ -39,4 +39,4 @@ http://www.rnasoft.ca/strand/analyser_output.php?molecule_ID=PDB_XXXXX&check_out
 This resource is powered by the Protein Data Bank archive-information about the 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health and disease.The RCSB PDB builds upon the data by creating tools and resources for research and education in molecular biology, structural biology, computational biology, and beyond.
 
 ### Download
-* 咕咕咕……
+&emsp;&emsp;完成二级结构文件和二级结构分析文件的下载后，还需要获取RNA分子的一级序列信息和三级结构信息。这需要从PDB数据库中下载。幸运的是，PDB数据库提供批量下载接口，甚至还为下载任务贴心地写了一个java插件。只需要在[下载页面](http://www.rcsb.org/pages/download_features#Structures)的相应区域输入需要下载的RNA分子的PDB ID，即可方便地批量下载pdb文件和fasta文件。PDB ID可以从上文的 **检索RNA STRAND数据库中来源自PDB数据库的RNA分子** 过程中获得。这样就确保了RNA分子结构信息的完备性（拥有源自RNA STRAND数据库的二级结构信息及其分析文件，同时拥有源自PDB数据库的一级序列信息和三级结构信息）。**需要特别注意的是，RNA STRAND中部分对应关系有错误，即RNA STRAND ID对应的PDB ID有变动（更新ID、合并或删除），这就需要检查异常文件。索性这种情况非常稀有，笔者遇到的这种异常概率不足千分之五。** 
