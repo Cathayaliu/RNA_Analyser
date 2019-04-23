@@ -15,7 +15,7 @@
 &emsp;&emsp;数据清洗的主要任务是把非结构化信息（文本，如fasta、ct、pdb、txt等格式的文件）转换为结构化信息（numpy数组、列表、DataFrame）。这个过程大量地使用了正则表达式（re）。下面是Python re 模块的官方文档。
 
 * [正则表达式模块](https://docs.python.org/zh-cn/3/library/re.html)
-
+* [一级结构清洗](https://github.com/Cathayaliu/RNA_Analyser/blob/master/text/clean_1.md)
 * 绝赞咕咕咕中……
 ### 设计数据库
 * 绝赞咕咕咕中……
